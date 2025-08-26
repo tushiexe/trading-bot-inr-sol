@@ -1,6 +1,6 @@
-# Crypto Trading Bot - Modified Version
+# Crypto Trading Bot
 
-A cryptocurrency trading bot that implements arbitrage strategies across multiple trading pairs.
+A cryptocurrency trading bot that implements arbitrage strategies across crypto trading pairs.
 
 ## Features
 
